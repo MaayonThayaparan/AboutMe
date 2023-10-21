@@ -12,13 +12,13 @@
 - Tested on Opera web browser
 
 ### Installation
-1. Download project files from GitHub
-2. Locate project files on local drive
-3. Can either:
+- Download project files from GitHub
+
+### Executing the Program
+- Locate project files on local drive
+- Can either:
      - Double click on the 'index.html' file to launch the webpage
      - Load Project into an IDE like VSCode with extension 'Live Preview' to view the webpage
-  
-### Executing the Program
 - Once webpage is launched, you can do the following:
      - Clicking on links the the navigator will bring you to that section
      - Hovering over navigator link or skills will change styling
