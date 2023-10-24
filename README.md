@@ -3,7 +3,9 @@
 ## Description
 - This webpage is OUTDATED in terms of skills known, projects, and experience.
 - Plan to create a brand new webpage using all new skills learned.
-- Simple HTMl webpage with JS and CSS used. 
+- Simple HTMl webpage with JS and CSS used.
+
+![image](https://github.com/MaayonThayaparan/AboutMe/assets/43158629/065bffb1-1c2b-4c10-bdd7-5c1cab8c54ed)
 
 ## Getting Started
 
